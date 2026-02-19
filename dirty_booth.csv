@@ -1,0 +1,15 @@
+booth_number,booth_price_level,booth_description,booth_type
+3.0,B,Third booth to the left as you enter the center door - Small square table size,Small
+10.0,b,Back right booth  - Large rectangular table size,Large
+6.0,c,Third booth on left end of building  - Small square table size,Small
+7.0,A,First booth to the right as you enter the center door,STANDARD
+2.0,A,,STANDARD
+6.0,c,  Third booth on left end of building  - Small square table size    ,SMALL
+8.0,C,First booth on right end of building  - Small square table size,Small
+10.0,b,  Back right booth  - Large rectangular table size    ,LARGE
+,A,  First booth to the left as you enter the center door    ,Std
+9.0,C,First booth on right end of building  - Small square table size,small
+12.0,b,,large
+11.0,b,back center booth  - large rectangular table size,Large
+5.0,C,  Second booth on left end of building  - Small square table size    ,Small
+4.0,c,  First booth on left end of building - Small square table size    ,small
